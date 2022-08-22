@@ -161,7 +161,6 @@ internal final class DropView: UIView {
     view.translatesAutoresizingMaskIntoConstraints = false
     view.contentMode = .scaleAspectFit
     view.clipsToBounds = true
-    view.tintColor = .systemRed
     return view
   }()
 
